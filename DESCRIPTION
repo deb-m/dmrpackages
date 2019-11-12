@@ -1,0 +1,15 @@
+Package: dmrpackages
+Title: A set of functions by Deb Mukhopadhyay
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Debaditya",
+           family = "Mukhopadhyay",
+           role = c("aut", "cre"),
+           email = "first.last@example.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: A set of functions for my own use.
+Depends: ggplot2,Rmisc,stats
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
